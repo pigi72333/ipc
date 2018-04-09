@@ -18,7 +18,7 @@ const (
 )
 
 const (
-	bufSize = 256
+	bufSize = 512
 )
 
 type Msgbuf struct {
